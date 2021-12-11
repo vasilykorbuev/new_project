@@ -8,4 +8,4 @@
 // document.write(answers);
 
 const user = prompt("Как ваше имя?");
-alert(`Привет, ${user}`); // Это - бектики
+alert(`Привет, ${user}`); // Это - бэктики `
